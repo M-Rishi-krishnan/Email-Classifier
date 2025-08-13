@@ -45,8 +45,3 @@ Fine-tune the BERT model, showing progress and validation accuracy.
 Save the final model to a new directory named spam_classifier_model/.
 
 Demonstrate how to classify new emails using the trained model.
-
-
-Validation Accuracy: ~99%
-
-This demonstrates the model's strong ability to generalize and accurately classify emails it has not seen during training.
